@@ -2,5 +2,5 @@
     
 $num1=4;
 $num2=5;
-echo "$num1 + $num2 = ".$num1+$num2;
+echo $num1.'+'.$num2.'= '.$num1+$num2;
 ?>
