@@ -1,8 +1,10 @@
 <?php
+$num1=10;
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+
+for($num2=0;$num2<=10;$num2++){
+    echo $num1.' / '.$num2.'= '.$num1/$num2.'<br>';
+};
+?>
 
